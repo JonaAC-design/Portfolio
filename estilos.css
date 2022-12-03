@@ -64,6 +64,10 @@ header{
 .competencias{
     width: 50%;
 }
+
+a{
+    text-decoration: none;
+}
 .tech-list{
     display: flex;
     justify-content: space-between;
